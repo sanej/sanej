@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sanej
+👋 Hi, I’m @sanej
+
 I've been building software since 1998 when I started programming in C/C++. I fell in love with the challenge and satisfaction of creating something from scratch. I distinctly remember building a FIFO memory simulator and flight reservation system in C++ during that time. Later, I fell in love with Java and built a Java Swing app that allowed users to draw UML class diagrams and generate a skeleton Java project based on the diagram. It was a low-code/no-code code generation tool before AI-powered code generation became popular.
 
 Over time, I built several enterprise applications (most of the code is sitting somewhere in the repositories of corporate clients) and then switched between creating slides for strategy consulting and building products by leading global teams.
